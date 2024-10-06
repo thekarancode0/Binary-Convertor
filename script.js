@@ -58,7 +58,7 @@ function showCalculation(input) {
         calcResult.textContent += remainder;
       }, delay);
 
-      delay += 2500;
+      delay += 1500;
       input = quotient;
     }
 
